@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Capstone Project for Coursera
+This Jupyter Notebook is created mainly used for the Coursera Capstone Project.
